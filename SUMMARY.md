@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Cardano-Basics](README.md)
+* [Cardano Developer](README.md)
 
