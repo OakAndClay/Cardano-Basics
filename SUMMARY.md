@@ -22,6 +22,7 @@
 
 ## Stake Pool Operation <a id="stake-pool-operator"></a>
 
+* [Block Explorers](stake-pool-operator/block-explorers.md)
 * [Raspberry Pi](stake-pool-operator/raspberry-pi.md)
 * [Cloud Services](stake-pool-operator/cloud-services.md)
 
