@@ -9,8 +9,10 @@
 * [Acquiring ADA](cardano-basics/acquiring-ada/README.md)
   * [Coinbase](cardano-basics/acquiring-ada/coinbase.md)
   * [Binance](cardano-basics/acquiring-ada/binance.md)
+* [Storing ADA](cardano-basics/storing-ada.md)
 * [Staking ADA](cardano-basics/staking-ada/README.md)
   * [Useful Tools](cardano-basics/staking-ada/useful-tools.md)
+* [Voting](cardano-basics/voting.md)
 
 ## Cardano Advanced
 
