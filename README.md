@@ -1,3 +1,7 @@
+---
+description: This is a curated list of resources that we have found to be useful.
+---
+
 # Welcome
 
 {% embed url="https://cardano.org/" %}
