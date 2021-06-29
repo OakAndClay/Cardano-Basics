@@ -14,6 +14,7 @@
 ## Cardano Advanced
 
 * [General Resources](cardano-advanced/general-resources.md)
+* [Native Assets](cardano-advanced/native-assets.md)
 * [Smart Contract Development](cardano-advanced/smart-contract-development/README.md)
   * [VScode](cardano-advanced/smart-contract-development/vscode.md)
   * [Programming Languages](cardano-advanced/smart-contract-development/programming-languages/README.md)
