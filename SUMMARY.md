@@ -36,5 +36,5 @@
 
 ## Video Collection
 
-* [Charles Lectures](video-collection/charles-lectures.md)
+* [Charles Boards](video-collection/charles-lectures.md)
 
