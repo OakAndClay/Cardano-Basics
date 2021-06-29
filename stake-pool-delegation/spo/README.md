@@ -1,4 +1,4 @@
-# FAQ
+# Stake Pool Operation
 
 ## Can I become who I want to be?
 
