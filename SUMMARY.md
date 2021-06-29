@@ -34,3 +34,7 @@
 * [Self Sovereign Identity](cardano-advanced/self-sovereign-identity/README.md)
   * [FAQ](cardano-advanced/self-sovereign-identity/faq.md)
 
+## Video Collection
+
+* [Charles Lectures](video-collection/charles-lectures.md)
+
