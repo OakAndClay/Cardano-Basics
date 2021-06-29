@@ -5,8 +5,9 @@
 ## Cardano Basics
 
 * [FAQ](cardano-basics/faq.md)
-* [Security](cardano-basics/security.md)
-* [Acquiring ADA](cardano-basics/acquiring-ada/README.md)
+* [Security](cardano-basics/security/README.md)
+  * [Ledger - Hardware Wallet](cardano-basics/security/ledger-hardware-wallet.md)
+* [Purchasing ADA](cardano-basics/acquiring-ada/README.md)
   * [Coinbase](cardano-basics/acquiring-ada/coinbase.md)
   * [Binance](cardano-basics/acquiring-ada/binance.md)
 * [Storing ADA](cardano-basics/storing-ada.md)

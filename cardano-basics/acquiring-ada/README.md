@@ -1,2 +1,2 @@
-# Acquiring ADA
+# Purchasing ADA
 
