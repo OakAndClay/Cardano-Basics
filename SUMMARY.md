@@ -9,7 +9,8 @@
 * [Acquiring ADA](cardano-basics/acquiring-ada/README.md)
   * [Coinbase](cardano-basics/acquiring-ada/coinbase.md)
   * [Binance](cardano-basics/acquiring-ada/binance.md)
-* [Staking ADA](cardano-basics/staking-ada.md)
+* [Staking ADA](cardano-basics/staking-ada/README.md)
+  * [Useful Tools](cardano-basics/staking-ada/useful-tools.md)
 
 ## Cardano Advanced
 
@@ -29,6 +30,7 @@
     * [Raspberry Pi](cardano-advanced/stake-pool-operation/hardwar-config/raspberry-pi.md)
     * [Cloud Services](cardano-advanced/stake-pool-operation/hardwar-config/cloud-services.md)
   * [Containers](cardano-advanced/stake-pool-operation/containers.md)
+  * [Tools](cardano-advanced/stake-pool-operation/tools.md)
 * [Self Sovereign Identity](cardano-advanced/self-sovereign-identity/README.md)
   * [FAQ](cardano-advanced/self-sovereign-identity/faq.md)
 

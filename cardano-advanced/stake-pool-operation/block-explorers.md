@@ -1,6 +1,6 @@
 # Block Explorers
 
-#### [Testnet](https://explorer.cardano-testnet.iohkdev.io/en)
+{% embed url="https://explorer.cardano-testnet.iohkdev.io/en" caption="Testnet" %}
 
-#### [Mainnet](https://explorer.cardano.org/en)
+{% embed url="https://explorer.cardano.org/en" caption="Mainnet" %}
 

@@ -1,10 +1,8 @@
 # Haskell
 
-#### Documentation
+{% embed url="https://cabal.readthedocs.io/en/latest/" %}
 
-[Cabal Docs](https://cabal.readthedocs.io/en/latest/)
-
-[Haskell Docs](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/)
+{% embed url="https://downloads.haskell.org/~ghc/latest/docs/html/users\_guide/" %}
 
 
 

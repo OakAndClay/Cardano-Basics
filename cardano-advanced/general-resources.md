@@ -1,8 +1,8 @@
 # General Resources
 
-[**Cardano Documentation**](https://docs.cardano.org/introduction/)\*\*\*\*
+{% embed url="https://docs.cardano.org/introduction/" %}
 
-\*\*\*\*[**Cardano Stack Exchange**](https://cardano.stackexchange.com/)\*\*\*\*
+{% embed url="https://cardano.stackexchange.com/" %}
 
 
 
