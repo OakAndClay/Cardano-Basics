@@ -13,6 +13,7 @@
 
 ## Cardano Advanced <a id="stake-pool-delegation"></a>
 
+* [General Resources](stake-pool-delegation/general-resources.md)
 * [Smart Contract Development](stake-pool-delegation/smart-contract-development/README.md)
   * [VScode](stake-pool-delegation/smart-contract-development/vscode.md)
   * [Programming Languages](stake-pool-delegation/smart-contract-development/programming-languages/README.md)
