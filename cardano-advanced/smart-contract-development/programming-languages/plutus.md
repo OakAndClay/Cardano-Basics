@@ -1,5 +1,13 @@
 # Plutus
 
+## Learning
+
+{% embed url="https://github.com/input-output-hk/plutus-pioneer-program" %}
+
+{% embed url="https://gitlab.com/gimbalabs/plutus-learning" %}
+
+{% embed url="https://github.com/chris-moreton/plutus-pioneer-program" %}
+
 ## IOG Documentation
 
 {% embed url="https://github.com/input-output-hk/plutus" %}
