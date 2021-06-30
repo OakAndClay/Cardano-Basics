@@ -6,7 +6,7 @@
 
 {% embed url="https://github.com/chris-moreton/plutus-pioneer-program" %}
 
-{% embed url="https://forum.cardano.org/c/developers/cardano-plutus/148" %}
+{% embed url="https://docs.plutus-community.com/" %}
 
 
 
