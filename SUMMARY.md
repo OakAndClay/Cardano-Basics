@@ -27,15 +27,15 @@
     * [Plutus](cardano-advanced/smart-contract-development/programming-languages/plutus.md)
     * [Marlowe](cardano-advanced/smart-contract-development/programming-languages/marlowe.md)
 * [Stake Pool Operation](cardano-advanced/stake-pool-operation/README.md)
-  * [Overview](cardano-advanced/stake-pool-operation/overview.md)
+  * [General Tutorials](cardano-advanced/stake-pool-operation/overview.md)
   * [Block Explorers](cardano-advanced/stake-pool-operation/block-explorers.md)
   * [Hardware Configurations](cardano-advanced/stake-pool-operation/hardwar-config/README.md)
     * [Raspberry Pi](cardano-advanced/stake-pool-operation/hardwar-config/raspberry-pi.md)
-    * [On the Cloud](cardano-advanced/stake-pool-operation/hardwar-config/on-the-cloud.md)
+    * [On the Cloud](cardano-advanced/stake-pool-operation/hardwar-config/on-the-cloud/README.md)
+      * [Cloud Computing Services](cardano-advanced/stake-pool-operation/hardwar-config/on-the-cloud/cloud-computing-services.md)
   * [Containers](cardano-advanced/stake-pool-operation/containers.md)
   * [Tools](cardano-advanced/stake-pool-operation/tools.md)
-* [Self Sovereign Identity](cardano-advanced/self-sovereign-identity/README.md)
-  * [FAQ](cardano-advanced/self-sovereign-identity/faq.md)
+* [Self Sovereign Identity](cardano-advanced/self-sovereign-identity.md)
 
 ## Video Collection
 
