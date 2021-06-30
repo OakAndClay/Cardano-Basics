@@ -23,6 +23,7 @@
   * [VScode](cardano-advanced/smart-contract-development/vscode.md)
   * [Languages](cardano-advanced/smart-contract-development/programming-languages/README.md)
     * [Haskell](cardano-advanced/smart-contract-development/programming-languages/haskell/README.md)
+      * [Docs](cardano-advanced/smart-contract-development/programming-languages/haskell/docs.md)
       * [Books](cardano-advanced/smart-contract-development/programming-languages/haskell/books.md)
       * [Haskell Libraries](cardano-advanced/smart-contract-development/programming-languages/haskell/haskell-libraries.md)
     * [Plutus](cardano-advanced/smart-contract-development/programming-languages/plutus/README.md)
