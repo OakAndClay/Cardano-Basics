@@ -4,5 +4,7 @@
 
 {% embed url="https://github.com/gitmachtl/scripts" %}
 
+{% embed url="https://github.com/input-output-hk/cardano-node" %}
+
 
 
