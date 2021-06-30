@@ -27,7 +27,7 @@
     * [Plutus](cardano-advanced/smart-contract-development/programming-languages/plutus.md)
     * [Marlowe](cardano-advanced/smart-contract-development/programming-languages/marlowe.md)
 * [Stake Pool Operation](cardano-advanced/stake-pool-operation/README.md)
-  * [General Tutorials](cardano-advanced/stake-pool-operation/overview.md)
+  * [General Guides](cardano-advanced/stake-pool-operation/overview.md)
   * [Block Explorers](cardano-advanced/stake-pool-operation/block-explorers.md)
   * [Hardware Configurations](cardano-advanced/stake-pool-operation/hardwar-config/README.md)
     * [Raspberry Pi](cardano-advanced/stake-pool-operation/hardwar-config/raspberry-pi.md)
