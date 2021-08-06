@@ -13,6 +13,7 @@
 * [Storing ADA](cardano-basics/storing-ada.md)
 * [Staking ADA](cardano-basics/staking-ada/README.md)
   * [Useful Tools](cardano-basics/staking-ada/useful-tools.md)
+* [Raffles](cardano-basics/raffles.md)
 * [Voting](cardano-basics/voting.md)
 
 ## Cardano Advanced
