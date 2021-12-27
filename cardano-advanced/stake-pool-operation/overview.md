@@ -10,7 +10,7 @@
 
 {% embed url="https://github.com/gitmachtl/scripts" %}
 
-{% embed url="https://cardano-community.github.io/guild-operators/\#/" %}
+{% embed url="https://cardano-community.github.io/guild-operators/#/" %}
 
-
+{% embed url="https://cardano-foundation.gitbook.io/stake-pool-course" %}
 
